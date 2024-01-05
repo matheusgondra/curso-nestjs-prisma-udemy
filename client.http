@@ -1,0 +1,9 @@
+@host = http://localhost:3333
+
+###
+
+GET {{host}}/users
+
+###
+
+GET {{host}}/users/1
